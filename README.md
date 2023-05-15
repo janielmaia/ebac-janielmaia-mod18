@@ -1,4 +1,4 @@
-# ebac-vinicius-mod19-exe
+# ebac-janielmaia-mod18-exe
 
 Reposiório destinado ao exercício do módulo 19 do *curso* **Analista de Dados** da **EBAC**. 
 O objetivo deste repositório é práticar o uso do Git e também do Github no versionamento de cógio. 
